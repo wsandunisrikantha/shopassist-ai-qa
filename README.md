@@ -32,6 +32,8 @@ The QA automation framework validates the chatbot's responses against predefined
 
 ## Test Coverage
 
+The framework implements 21 automated test checks: 6 cached-response regression tests and 15 LLM evaluation checks across policy correctness, faithfulness, and answer relevancy.
+
 ### Automated Regression Testing
 
 The project includes six pytest regression tests covering five policy scenarios.
