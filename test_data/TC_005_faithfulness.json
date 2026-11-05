@@ -1,0 +1,10 @@
+{
+  "input": "My ShopAssist-branded electronic device stopped working after three months. Is it covered under warranty?",
+  "actual_output": "Eligible ShopAssist-branded electronics have a 12-month limited manufacturing-defect warranty from the confirmed delivery date under normal use, provided support assesses the claim. However, warranty terms depend on the product and the cause of the problem, and accessories and consumables are excluded unless explicitly stated on their product listing. \n\nTo proceed, support must assess your claim. Please use the official Help or Contact Support page on the ShopAssist website to submit your claim.",
+  "retrieval_context": [
+    "A: Warranty terms depend on the product and the cause of the problem. Eligible ShopAssist-branded electronics have a 12-month limited manufacturing-defect warranty; support must assess the claim.",
+    "Eligible ShopAssist-branded electronics include a limited 12-month warranty from the confirmed delivery date against manufacturing defects under normal use. Accessories and consumables are excluded unless explicitly stated on the product listing. Third-party products follow the manufacturer's warranty terms shown on their listing. The chatbot must not assume every product has a 12-month warranty.",
+    "Customers must report a damaged, defective, or incorrect item within 30 calendar days of delivery. Visible transit damage should ideally be reported within 48 hours, but missing that preferred window does not automatically invalidate a claim within the 30-day reporting period. Customers should provide their order number, a description, and photographs where possible. ShopAssist support reviews the evidence and may offer a replacement, refund, or other appropriate remedy.",
+    "For returns, refunds, cancellations, delivery investigations, payment disputes, and warranty claims, customers should use the official Help or Contact Support page on the ShopAssist website. This fictional test dataset intentionally does not specify a support email address, telephone number, or live chat hours. The chatbot must not invent any of them."
+  ]
+}

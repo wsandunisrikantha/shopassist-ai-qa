@@ -1,0 +1,5 @@
+requests
+python-dotenv
+pytest
+deepeval
+google-genai

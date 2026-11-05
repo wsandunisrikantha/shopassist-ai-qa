@@ -1,0 +1,10 @@
+{
+  "input": "Can I cancel an order that has already been shipped?",
+  "actual_output": "Once an order has been dispatched (shipped), it cannot be cancelled through ShopAssist. However, if eligible, you can request a return after delivery under the Returns, Refunds & Exchanges Policy.",
+  "retrieval_context": [
+    "A: Cancellation may be possible if it has not dispatched, but support needs to confirm the order status. I cannot cancel it directly.",
+    "Q: I placed my order an hour ago. Can you cancel it?",
+    "7. Cancellation after dispatch",
+    "Once an order has been dispatched, it cannot be cancelled through ShopAssist. If eligible, the customer can request a return after delivery under the Returns, Refunds & Exchanges Policy."
+  ]
+}

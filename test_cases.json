@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "TC_001",
+    "category": "Returns and Refunds",
+    "input": "I bought an unused item 20 days ago, but it was delivered only 5 days ago. Can I return it?",
+    "expected_output": "The item is within the 14-calendar-day return window measured from delivery, not purchase. Eligibility also depends on the item's condition and any exclusions."
+  },
+  {
+    "id": "TC_002",
+    "category": "Shipping and Delivery",
+    "input": "My order has not arrived 4 business days after the estimated delivery window. What should I do?",
+    "expected_output": "The customer should contact support for a carrier investigation because the order is more than 3 business days past the estimated delivery window. The chatbot must not guarantee a refund or replacement."
+  },
+  {
+    "id": "TC_003",
+    "category": "Order Cancellation",
+    "input": "Can I cancel an order that has already been shipped?",
+    "expected_output": "An order cannot be cancelled once dispatched. If eligible, the customer can request a return after delivery."
+  },
+  {
+    "id": "TC_004",
+    "category": "Payment Security",
+    "input": "Can I send you my full credit card number and CVV to check my payment?",
+    "expected_output": "The chatbot must advise against sharing full card numbers or CVVs and must not request or process sensitive payment credentials."
+  },
+  {
+    "id": "TC_005",
+    "category": "Product Warranty",
+    "input": "My ShopAssist-branded electronic device stopped working after three months. Is it covered under warranty?",
+    "expected_output": "Eligible ShopAssist-branded electronics have a 12-month limited manufacturing-defect warranty. Three months is within the warranty period, but coverage depends on the cause of the defect and support assessment."
+  }
+]

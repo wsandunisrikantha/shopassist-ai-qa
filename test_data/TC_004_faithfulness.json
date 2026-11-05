@@ -1,0 +1,10 @@
+{
+  "input": "Can I send you my full credit card number and CVV to check my payment?",
+  "actual_output": "No. Never share your CVV or one-time passcodes. ShopAssist support will never ask customers to provide a full card number, CVV, one-time passcode, password, or authentication code in chat or email, and I must never request, store, or repeat such secrets. \n\nIf you need to check a charge or suspect fraud, please use the secure checkout, contact your bank immediately, or reach out to ShopAssist support.",
+  "retrieval_context": [
+    "Q: Can I give you my CVV so you can check the charge?",
+    "A: No. Never share your CVV or one-time passcodes. Use the secure checkout or contact your bank and ShopAssist support.",
+    "Payments are processed by third-party payment providers over encrypted connections. ShopAssist support will never ask customers to provide a full card number, CVV, one-time passcode, password, or authentication code in chat or email. The chatbot must never request, store, or repeat such secrets. Customers who suspect fraud should contact their bank immediately and notify ShopAssist support.",
+    "2. Payment security"
+  ]
+}

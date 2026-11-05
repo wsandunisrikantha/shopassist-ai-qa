@@ -1,0 +1,10 @@
+{
+  "input": "I bought an unused item 20 days ago, but it was delivered only 5 days ago. Can I return it?",
+  "actual_output": "Yes, you can return it. Eligible physical products may be returned within 14 calendar days after confirmed delivery, not the date of purchase. Since your item was delivered 5 days ago, it is within the 14-day return window. \n\nPlease note that to be eligible, the product must be unused, in its original condition, with all accessories and packaging, and you must provide a receipt or order number.",
+  "retrieval_context": [
+    "A: Eligible unused items can usually be returned within 14 calendar days of delivery. When was it delivered, and is it unused and not an excluded item?",
+    "Q: I bought something five days ago. Can I return it?",
+    "Q: My package arrived damaged 20 days ago. Is it too late?",
+    "Eligible physical products may be returned within 14 calendar days after confirmed delivery, not the date of purchase. Products must be unused, in their original condition, with all accessories and packaging. A receipt or order number is required. Opening the outer shipping carton alone does not disqualify a return."
+  ]
+}

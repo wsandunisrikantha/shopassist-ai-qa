@@ -1,0 +1,10 @@
+{
+  "input": "My order has not arrived 4 business days after the estimated delivery window. What should I do?",
+  "actual_output": "If your order has not arrived 3 business days after the upper end of its estimated delivery window, you should contact support. Support can then investigate the issue with the carrier. Please note that support cannot promise a refund or replacement before an investigation is completed.",
+  "retrieval_context": [
+    "If an order has not arrived 3 business days after the upper end of its estimated delivery window, the customer should contact support. Support can investigate with the carrier; the chatbot must not promise a refund or replacement before investigation. For a package marked delivered but not found, customers should first check the delivery location and household members, then contact support within 7 calendar days of the carrier's delivery scan.",
+    "5. Delayed or missing deliveries",
+    "A tracking link is normally emailed after dispatch. Tracking events can take up to 24 hours to appear. The chatbot cannot look up live tracking information, inspect a customer's account, confirm whether an order has shipped, or provide a current estimated arrival for a specific order. For a missing tracking email after the processing period, direct the customer to support with their order number.",
+    "After dispatch, standard domestic delivery usually takes 3–7 business days; express domestic delivery usually takes 1–3 business days. Remote areas, holidays, severe weather, customs checks, and carrier disruptions may cause delays. Delivery estimates begin after dispatch, not on the purchase date."
+  ]
+}
